@@ -10,7 +10,7 @@ body {
 	padding:15px;
 	display:flex;
 	justify-content:space-between;
-	image:200px;
+	width: 500%;
 }
 
 .navbar ul {
