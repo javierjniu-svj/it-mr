@@ -9,7 +9,6 @@ body {
     background: #ff5722;
     color: white;
     padding: 20px 40px;
-    display: flex;
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;
